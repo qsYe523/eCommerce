@@ -1,9 +1,5 @@
 ## eCommerce with Security and DevOps
 
-Udacity [Java Web Developer Nanodegree](https://www.udacity.com/course/java-developer-nanodegree--nd035) 
-**fifth course** project, 
-[eCommerce Application](https://github.com/udacity/nd035-c4-Security-and-DevOps).
-
 ****
 #### Running with Docker
 
